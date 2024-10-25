@@ -8,7 +8,10 @@
         "php": "^8.2",
         "laravel/framework": "^11.9",
         "laravel/sanctum": "^4.0",
-        "laravel/tinker": "^2.9"
+        "laravel/tinker": "^2.9",
+        "league/flysystem-aws-s3-v3": "^3.29",
+        "php-open-source-saver/jwt-auth": "^2.7",
+        "vinkla/hashids": "^12.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
